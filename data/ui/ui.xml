@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="options_panel.lua"/>
+    <Script file="dropdown_menu.lua"/>
+    <Script file="sound_categories.lua"/>
+</Ui>

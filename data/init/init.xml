@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="init.lua"/>              <!-- Initialize MyAddon and global variables -->
+    <Script file="saved_variables.lua"/>   <!-- Load saved variables -->
+    <Script file="init_events.lua"/>       <!-- Load event handling functions -->
+    <Script file="event_registration.lua"/> <!-- Register events that utilize the above functions -->
+</Ui>
